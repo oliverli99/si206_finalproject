@@ -1,3 +1,3 @@
 # si206_finalproject
 
-Contains the final project jupyter notebook, visualizations, and output. 
+Contains the SI 206 final project jupyter notebook, visualizations, output and report.  
